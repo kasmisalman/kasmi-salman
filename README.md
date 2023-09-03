@@ -1,5 +1,5 @@
 
-<img align="" alt="coding" width="" src="https://github.com/kasmisalman/kasmisalman/blob/main/2023-09-03%2011_14_26-Window.png" />
+<img align="" alt="coding" width="" height="200" src="https://github.com/kasmisalman/kasmisalman/blob/main/2023-09-03%2011_14_26-Window.png" />
 <h1 align="center">Hi 👋, I'm Khan Salman</h1>
 <h3 align="center">A passionate Web-developer from India</h3>
 
