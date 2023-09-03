@@ -1,4 +1,4 @@
-![logo]([https://github.com/kasmisalman/kasmi-salman/blob/main/KHAN%20SALMAN.png](https://github.com/kasmisalman/kasmisalman/blob/main/KHAN%20SALMAN.png))
+![logo]([https://github.com/kasmisalman/kasmi-salman/blob/main/KHAN%20SALMAN.png]
 <h1 align="center">Hi 👋, I'm Khan Salman</h1>
 <h3 align="center">A passionate Web-developer from India</h3>
 
